@@ -7,7 +7,6 @@
  */
 
 // import html template
-import HTML from './index.html';
 
 // Available models list
 const AVAILABLE_MODELS = [
@@ -250,3 +249,4 @@ export default {
     }
   },
 };
+
